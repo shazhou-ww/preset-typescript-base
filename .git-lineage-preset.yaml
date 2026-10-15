@@ -1,0 +1,5 @@
+version: 1
+title: TypeScript base
+description:
+  Strict TypeScript development baseline with pnpm, linting, tests, coverage,
+  CI, and dependency updates.
